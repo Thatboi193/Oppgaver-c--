@@ -9,17 +9,21 @@ int main() {
     ifstream input("input.txt");
     vector <int> orig = {};
     vector <int> sumvec = {};
-    int sum;
+    int sum = 0;
     while (getline(input, myText)) {
         if (!myText.empty()) {
             int number = stoi(myText);
             orig.push_back(number);
+
         } else {
             for (int i = 0; i < orig.size(); i++) {
+                cout << orig[i] << endl;
                 sum += orig[i];
 
             }
+            cout << endl;
             sumvec.push_back(sum);
+            sum = 0;
             orig.clear();
 
         }
@@ -28,10 +32,15 @@ int main() {
         
 
     cout << endl;
-    cout << orig.size();
-    cout << sumvec.size();
+    cout << orig.size() << endl; 
+    cout << sumvec.size() << endl;
+
+    for (int i = 0; i < sumvec.size(); i++) {
+
+        cout << sumvec[i] << endl;
 
 
+    }
 
 
 
