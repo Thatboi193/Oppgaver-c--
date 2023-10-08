@@ -1,0 +1,34 @@
+
+1. Beskriv med egne ord hva hendelse, sannsynlighet, konsekvens og risiko betyr når vi snakker om risikovurdering.
+
+Hendelse er noe som skjer, som at serveren dør. Sannsynlighet er hvor stor sjanse det er for at noe skjer. Konsekvens er hva som skjer hvis noe går galt, for eksempel å pengetap hvis serveren dør. "Risiko" er man kalkulerer av sannsynlighet og konsekvens. Det er som å tenke på hvor farlig det er å elte popkorn i mikroen.
+
+2. Ta utgangspunkt i din egen hverdag. Hvilken aktivitet tror du vil få størst konsekvenser hvis noe går galt? Hvilken uønsket hendelse er det størst sannsynlighet for i din hverdag?
+
+Svar: Jeg tror at de største konsekvenser ville kommet av at jeg feilet å sykle riktig å så kræsje så dør av tramatisk hodeskade. Jeg tror det som har mest sansynelighet for å skape en uønsket hendelse er en skill issue som gjør at jeg taper i et spill.
+
+
+3. Iverksetter du eller har du iverksatt tiltak for å redusere konsekvensene av hendelser eller sannsynligheten for at de skal inntreffe?
+
+Svar: Ja, jeg har blitt bedre å sykle gjennom repetisjon. Skill issue-en kan hende er kronisk så det er vanskeligere å fikse men jeg har iverksatt tiltak som å lære mer for å kompensere for skill issue-en.
+
+
+4. Hvor mange dør hvert år av drukning, bilulykker og fallskjermhopping i Norge?
+
+Svar: I snitt dør 96 mennesker av drukning hvert år. I 2022 døde 116 mennesker i traffikulykker. Jeg fant ikke dødsstatistik for fallskjermhopping.
+
+
+5. Kan vi sammenligne tallene direkte for å finne ut hva som er farligst?
+
+Svar: Vi kan ikke sammenlignedirekte fordi det er stor forkjell mellom hvor mange som gjør noe som bilkjøring og drukning.
+
+
+
+6. Følg lenka til Folkehelseinstituttets statistikk om skadearena og skadeårsak, og vurder statistikken for aldersgruppa di opp mot de som er eldre og yngre.
+
+Svar: I arbeidsulykker er den flere i aldersgruppa 25-64 som dør av arbeid ulykker enn for eksempel 15-24 det kan være fordi igjen den er flere i den eldre gruppen som jobber.
+
+
+7. Når vi skal vurdere risiko for en bedrift/situasjon, gjennomfører vi ofte en risikoanalyse. Søk på nettet, og beskriv hvordan en slik analyse gjennomføres.
+
+Svar: En risikoanalyse starter med å identifisere hva som kan gå galt for eksempel brannfare. Deretter ser man på hvor sannsynlig det er og hva konsekvensene kan bli, man kan gjøre dette med hjelp av en tabbel so mgår fra lav til høy konsekvens og lav til høy sannsynlighet. Å slik stoppe det som er sannsynlig og høy konsekvens. Til slutt lager man en plan for å redusere disse risikoene. For eksempel kan en butikk sette opp flere kameraer for å redusere sjansen for tyveri.
