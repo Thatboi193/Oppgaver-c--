@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
@@ -34,14 +35,15 @@ int main() {
     cout << endl;
     cout << orig.size() << endl; 
     cout << sumvec.size() << endl;
+    sort(sumvec.begin(), sumvec.end());
 
     for (int i = 0; i < sumvec.size(); i++) {
 
         cout << sumvec[i] << endl;
 
-
     }
 
+    
 
 
     system("pause");
