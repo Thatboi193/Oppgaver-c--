@@ -42,15 +42,15 @@ int main() {
         cout << sumvec[i] << endl;
 
     }
+    int sum2 = 0;
     cout << endl;
     for (int i = 0; i < 3; i++) {
-        int sum = 0;
-        sum += sumvec.back();
+        sum2 += sumvec.back();
         sumvec.pop_back();
-        cout << sum << endl;
+        
     }
 
-
+    cout << "Top 3 = " << sum2 << endl;
     //system("pause");
     return 0;
 }
