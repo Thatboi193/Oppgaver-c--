@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 void math(float num1, float num2, int num3) {
     switch(num3) {
 
@@ -24,14 +23,8 @@ void math(float num1, float num2, int num3) {
             break;
         default:
         cout << "Invalid choice please pick 1-4.";
-        
-
-       
     }
 }
-
-
-
 
 int main() {
     float num1, num2;
@@ -42,9 +35,6 @@ cout << "Give me two numbers to math them. Enter num1: ";
     cout << "num1 accepted. Enter num2: ";
     cin >> num2;
 
-
-
-
     cout << "|| Chose operation ||" << endl;
     cout << "1. Addition" << endl;
     cout << "2. Subtraction" << endl;
@@ -53,17 +43,6 @@ cout << "Give me two numbers to math them. Enter num1: ";
 
     cin >> num3;
     math(num1, num2, num3);
-
-
-
-
-
-
-
-
-
-
-
 
     system("pause");
     return 0;
