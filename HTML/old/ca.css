@@ -1,0 +1,17 @@
+#myHeader {
+    background-color: brown;
+    padding: 40px;
+    text-align: center;
+}
+
+.car {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+
+#frame {
+    width: fit-content;
+    height: fit-content;
+  
+}
