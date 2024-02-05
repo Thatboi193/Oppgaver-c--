@@ -2,10 +2,6 @@ body {
     background: linear-gradient(160deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
     background-size: cover;
     color: white;
-    scrollbar-width: 0px;
-    -ms-overflow-style: none;  /* IE and Edge */
-    overflow-x: hidden; /* Hide horizontal scrollbar */
-
 }
 
 html {
@@ -20,6 +16,14 @@ html {
     margin-top: 50px;
 }
 
+body {
+    background-color: grey;
+    scrollbar-width: 0px;
+    -ms-overflow-style: none;  /* IE and Edge */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+
+   
+}
 
 .example::-webkit-scrollbar {
     display: none;
@@ -58,7 +62,7 @@ html {
     background-color: black ;
     text-decoration: none;
     color: aliceblue;
-   
+    border-color: red;
   
     
 }
@@ -98,32 +102,11 @@ html {
 }
 
 
-#main {
-   
-    padding: 10px 10px;
-    width: fit-content;
-   
-    
+
+img{
+    max-width: 100px;
 }
 
-.grid-container {
-    display: grid;
-    column-gap: 5px;
-    grid-template-columns: auto auto;
-  
-    padding: 10px;
+a {
+    margin: 20px;
 }
-  
-  .grid-item {
-   height: fit-content;
-   
-    padding: 1px;
-    font-size: 30px;
-    text-align: center;
-}
-
-.grid-item img {
-    width: 100%;
-    height: auto;
-  }
-
