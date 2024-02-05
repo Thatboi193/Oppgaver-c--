@@ -106,63 +106,21 @@ html {
     
 }
 
-.article-container {
-    color: azure;
-    margin-top: 40px;
-    border-radius: 15px;
-    border: 5px solid black;
-    background-color: black;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-
-}
-
-.article-container img {
-    height: auto;
+.grid-container {
+    display: block;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
     width: 100%;
-    border-radius: 15px;
 }
 
-.article-container span{
-    padding: 1px;
-    
+.grid-item {
+    background-color: red;
+    font-size: 30px;
+    text-align: center;
 }
 
-#sidebar {
-    margin-top: 50px;
-    min-width: 100px;
-   
-    height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 25%; /* Set the width of the sidebar */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    z-index: 1; /* Stay on top */
-    top: 45px; /* Stay at the top */
-    right: 0;
-    background-color: gray;
+.grid-item img {
+    max-width: 100px;
+  
+   height: auto;
 }
-
-.latest-post {
-    color: azure;
-    border-radius: 15px;
-    margin-right: 10px;
-}
-.latest-post-post {
-    border: 3px solid black;
-    border-radius: 15px;
-    margin-top: 5px;
-    background-color: black;
-    padding: 5px;
-}
-
-.latest-post-post img {
-    width: 100%;
-    border-radius: 15px;
-    
-    
-   
-}
-
-.top-sidebar {
-    background-color: black;
-}
-
-
